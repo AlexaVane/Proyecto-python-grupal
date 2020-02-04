@@ -1,5 +1,7 @@
 #pip install gTTS
 #gtts-cli --all
+#pip install pipwin
+#pipwin install pyaudio
 from gtts import gTTS
 import sys
 from PyQt5 import QtCore, QtGui
